@@ -1,0 +1,7 @@
+Layer: 0, neuron 0, 0.197986, 0.679374, 1.12128, 0.785006, 
+Layer: 0, neuron 1, 0.31312, 0.534517, 1.20461, 0.871785, 
+Layer: 1, neuron 0, 0.640265, 
+Layer: 1, neuron 1, 0.452995, 
+Layer: 1, neuron 2, -2.18383, 
+Layer: 1, neuron 3, -0.00340532, 
+Layer: 2, neuron 0, 

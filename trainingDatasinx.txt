@@ -1,0 +1,2802 @@
+
+Pass 1
+: inputs: 0.001 0.002 0.003 0.004 
+: outputs: 0.561761 
+: targets: 0.841471 
+Pass 2
+: inputs: 0.002 0.003 0.004 0.005 
+: outputs: 0.588648 
+: targets: 0.909297 
+Pass 3
+: inputs: 0.003 0.004 0.005 0.006 
+: outputs: 0.629051 
+: targets: 0.14112 
+Pass 4
+: inputs: 0.004 0.005 0.006 0.007 
+: outputs: 0.611088 
+: targets: -0.756802 
+Pass 5
+: inputs: 0.005 0.006 0.007 0.008 
+: outputs: 0.478914 
+: targets: -0.958924 
+Pass 6
+: inputs: 0.006 0.007 0.008 0.009 
+: outputs: 0.219172 
+: targets: -0.279415 
+Pass 7
+: inputs: 0.007 0.008 0.009 0.01 
+: outputs: -0.00126866 
+: targets: 0.656987 
+Pass 8
+: inputs: 0.008 0.009 0.01 0.011 
+: outputs: 0.00300266 
+: targets: 0.989358 
+Pass 9
+: inputs: 0.009 0.01 0.011 0.012 
+: outputs: 0.168257 
+: targets: 0.412118 
+Pass 10
+: inputs: 0.01 0.011 0.012 0.013 
+: outputs: 0.282797 
+: targets: -0.544021 
+Pass 11
+: inputs: 0.011 0.012 0.013 0.014 
+: outputs: 0.224238 
+: targets: -0.99999 
+Pass 12
+: inputs: 0.012 0.013 0.014 0.015 
+: outputs: 0.0111115 
+: targets: -0.536573 
+Pass 13
+: inputs: 0.013 0.014 0.015 0.016 
+: outputs: -0.182631 
+: targets: 0.420167 
+Pass 14
+: inputs: 0.014 0.015 0.016 0.017 
+: outputs: -0.185661 
+: targets: 0.990607 
+Pass 15
+: inputs: 0.015 0.016 0.017 0.018 
+: outputs: -0.00782055 
+: targets: 0.650288 
+Pass 16
+: inputs: 0.016 0.017 0.018 0.019 
+: outputs: 0.181359 
+: targets: -0.287903 
+Pass 17
+: inputs: 0.017 0.018 0.019 0.02 
+: outputs: 0.205401 
+: targets: -0.961397 
+Pass 18
+: inputs: 0.018 0.019 0.02 0.021 
+: outputs: 0.0494981 
+: targets: -0.750987 
+Pass 19
+: inputs: 0.019 0.02 0.021 0.022 
+: outputs: -0.150902 
+: targets: 0.149877 
+Pass 20
+: inputs: 0.02 0.021 0.022 0.023 
+: outputs: -0.204572 
+: targets: 0.912945 
+Pass 21
+: inputs: 0.021 0.022 0.023 0.024 
+: outputs: -0.0706336 
+: targets: 0.836656 
+Pass 22
+: inputs: 0.022 0.023 0.024 0.025 
+: outputs: 0.133906 
+: targets: -0.00885131 
+Pass 23
+: inputs: 0.023 0.024 0.025 0.026 
+: outputs: 0.212617 
+: targets: -0.84622 
+Pass 24
+: inputs: 0.024 0.025 0.026 0.027 
+: outputs: 0.103199 
+: targets: -0.905578 
+Pass 25
+: inputs: 0.025 0.026 0.027 0.028 
+: outputs: -0.102858 
+: targets: -0.132352 
+Pass 26
+: inputs: 0.026 0.027 0.028 0.029 
+: outputs: -0.207818 
+: targets: 0.762558 
+Pass 27
+: inputs: 0.027 0.028 0.029 0.03 
+: outputs: -0.123837 
+: targets: 0.956376 
+Pass 28
+: inputs: 0.028 0.029 0.03 0.031 
+: outputs: 0.0788704 
+: targets: 0.270906 
+Pass 29
+: inputs: 0.029 0.03 0.031 0.032 
+: outputs: 0.206486 
+: targets: -0.663634 
+Pass 30
+: inputs: 0.03 0.031 0.032 0.033 
+: outputs: 0.148192 
+: targets: -0.988032 
+Pass 31
+: inputs: 0.031 0.032 0.033 0.034 
+: outputs: -0.0479105 
+: targets: -0.404038 
+Pass 32
+: inputs: 0.032 0.033 0.034 0.035 
+: outputs: -0.197245 
+: targets: 0.551427 
+Pass 33
+: inputs: 0.033 0.034 0.035 0.036 
+: outputs: -0.166121 
+: targets: 0.999912 
+Pass 34
+: inputs: 0.034 0.035 0.036 0.037 
+: outputs: 0.0187698 
+: targets: 0.529083 
+Pass 35
+: inputs: 0.035 0.036 0.037 0.038 
+: outputs: 0.186493 
+: targets: -0.428183 
+Pass 36
+: inputs: 0.036 0.037 0.038 0.039 
+: outputs: 0.182428 
+: targets: -0.991779 
+Pass 37
+: inputs: 0.037 0.038 0.039 0.04 
+: outputs: 0.011789 
+: targets: -0.643538 
+Pass 38
+: inputs: 0.038 0.039 0.04 0.041 
+: outputs: -0.171197 
+: targets: 0.296369 
+Pass 39
+: inputs: 0.039 0.04 0.041 0.042 
+: outputs: -0.19457 
+: targets: 0.963795 
+Pass 40
+: inputs: 0.04 0.041 0.042 0.043 
+: outputs: -0.0418375 
+: targets: 0.745113 
+Pass 41
+: inputs: 0.041 0.042 0.043 0.044 
+: outputs: 0.152563 
+: targets: -0.158623 
+Pass 42
+: inputs: 0.042 0.043 0.044 0.045 
+: outputs: 0.203084 
+: targets: -0.916522 
+Pass 43
+: inputs: 0.043 0.044 0.045 0.046 
+: outputs: 0.0706211 
+: targets: -0.831775 
+Pass 44
+: inputs: 0.044 0.045 0.046 0.047 
+: outputs: -0.13093 
+: targets: 0.0177019 
+Pass 45
+: inputs: 0.045 0.046 0.047 0.048 
+: outputs: -0.207868 
+: targets: 0.850904 
+Pass 46
+: inputs: 0.046 0.047 0.048 0.049 
+: outputs: -0.0981672 
+: targets: 0.901788 
+Pass 47
+: inputs: 0.047 0.048 0.049 0.05 
+: outputs: 0.106071 
+: targets: 0.123573 
+Pass 48
+: inputs: 0.048 0.049 0.05 0.051 
+: outputs: 0.208485 
+: targets: -0.768255 
+Pass 49
+: inputs: 0.049 0.05 0.051 0.052 
+: outputs: 0.12314 
+: targets: -0.953753 
+Pass 50
+: inputs: 0.05 0.051 0.052 0.053 
+: outputs: -0.0792702 
+: targets: -0.262375 
+Pass 51
+: inputs: 0.051 0.052 0.053 0.054 
+: outputs: -0.205384 
+: targets: 0.670229 
+Pass 52
+: inputs: 0.052 0.053 0.054 0.055 
+: outputs: -0.145814 
+: targets: 0.986628 
+Pass 53
+: inputs: 0.053 0.054 0.055 0.056 
+: outputs: 0.050294 
+: targets: 0.395925 
+Pass 54
+: inputs: 0.054 0.055 0.056 0.057 
+: outputs: 0.198092 
+: targets: -0.558789 
+Pass 55
+: inputs: 0.055 0.056 0.057 0.058 
+: outputs: 0.165178 
+: targets: -0.999755 
+Pass 56
+: inputs: 0.056 0.057 0.058 0.059 
+: outputs: -0.0205379 
+: targets: -0.521551 
+Pass 57
+: inputs: 0.057 0.058 0.059 0.06 
+: outputs: -0.187137 
+: targets: 0.436165 
+Pass 58
+: inputs: 0.058 0.059 0.06 0.061 
+: outputs: -0.181418 
+: targets: 0.992873 
+Pass 59
+: inputs: 0.059 0.06 0.061 0.062 
+: outputs: -0.00991893 
+: targets: 0.636738 
+Pass 60
+: inputs: 0.06 0.061 0.062 0.063 
+: outputs: 0.172242 
+: targets: -0.304811 
+Pass 61
+: inputs: 0.061 0.062 0.063 0.064 
+: outputs: 0.193909 
+: targets: -0.966118 
+Pass 62
+: inputs: 0.062 0.063 0.064 0.065 
+: outputs: 0.0398614 
+: targets: -0.739181 
+Pass 63
+: inputs: 0.063 0.064 0.065 0.066 
+: outputs: -0.15396 
+: targets: 0.167356 
+Pass 64
+: inputs: 0.064 0.065 0.066 0.067 
+: outputs: -0.202768 
+: targets: 0.920026 
+Pass 65
+: inputs: 0.065 0.066 0.067 0.068 
+: outputs: -0.0689993 
+: targets: 0.826829 
+Pass 66
+: inputs: 0.066 0.067 0.068 0.069 
+: outputs: 0.132282 
+: targets: -0.0265512 
+Pass 67
+: inputs: 0.067 0.068 0.069 0.07 
+: outputs: 0.207654 
+: targets: -0.85552 
+Pass 68
+: inputs: 0.068 0.069 0.07 0.071 
+: outputs: 0.0964098 
+: targets: -0.897928 
+Pass 69
+: inputs: 0.069 0.07 0.071 0.072 
+: outputs: -0.107837 
+: targets: -0.114785 
+Pass 70
+: inputs: 0.07 0.071 0.072 0.073 
+: outputs: -0.208668 
+: targets: 0.773891 
+Pass 71
+: inputs: 0.071 0.072 0.073 0.074 
+: outputs: -0.121762 
+: targets: 0.951055 
+Pass 72
+: inputs: 0.072 0.073 0.074 0.075 
+: outputs: 0.0809088 
+: targets: 0.253823 
+Pass 73
+: inputs: 0.073 0.074 0.075 0.076 
+: outputs: 0.205652 
+: targets: -0.676772 
+Pass 74
+: inputs: 0.074 0.075 0.076 0.077 
+: outputs: 0.144425 
+: targets: -0.985146 
+Pass 75
+: inputs: 0.075 0.076 0.077 0.078 
+: outputs: -0.0522349 
+: targets: -0.387782 
+Pass 76
+: inputs: 0.076 0.077 0.078 0.079 
+: outputs: -0.198729 
+: targets: 0.566108 
+Pass 77
+: inputs: 0.077 0.078 0.079 0.08 
+: outputs: -0.164125 
+: targets: 0.99952 
+Pass 78
+: inputs: 0.078 0.079 0.08 0.081 
+: outputs: 0.0223449 
+: targets: 0.513978 
+Pass 79
+: inputs: 0.079 0.08 0.081 0.082 
+: outputs: 0.187885 
+: targets: -0.444113 
+Pass 80
+: inputs: 0.08 0.081 0.082 0.083 
+: outputs: 0.180465 
+: targets: -0.993889 
+Pass 81
+: inputs: 0.081 0.082 0.083 0.084 
+: outputs: 0.00796436 
+: targets: -0.629888 
+Pass 82
+: inputs: 0.082 0.083 0.084 0.085 
+: outputs: -0.173312 
+: targets: 0.313229 
+Pass 83
+: inputs: 0.083 0.084 0.085 0.086 
+: outputs: -0.19326 
+: targets: 0.968364 
+Pass 84
+: inputs: 0.084 0.085 0.086 0.087 
+: outputs: -0.0380537 
+: targets: 0.73319 
+Pass 85
+: inputs: 0.085 0.086 0.087 0.088 
+: outputs: 0.155155 
+: targets: -0.176076 
+Pass 86
+: inputs: 0.086 0.087 0.088 0.089 
+: outputs: 0.202289 
+: targets: -0.923458 
+Pass 87
+: inputs: 0.087 0.088 0.089 0.09 
+: outputs: 0.0671852 
+: targets: -0.821818 
+Pass 88
+: inputs: 0.088 0.089 0.09 0.091 
+: outputs: -0.133737 
+: targets: 0.0353983 
+Pass 89
+: inputs: 0.089 0.09 0.091 0.092 
+: outputs: -0.207461 
+: targets: 0.860069 
+Pass 90
+: inputs: 0.09 0.091 0.092 0.093 
+: outputs: -0.0947688 
+: targets: 0.893997 
+Pass 91
+: inputs: 0.091 0.092 0.093 0.094 
+: outputs: 0.109403 
+: targets: 0.105988 
+Pass 92
+: inputs: 0.092 0.093 0.094 0.095 
+: outputs: 0.208682 
+: targets: -0.779466 
+Pass 93
+: inputs: 0.093 0.094 0.095 0.096 
+: outputs: 0.120221 
+: targets: -0.948282 
+Pass 94
+: inputs: 0.094 0.095 0.096 0.097 
+: outputs: -0.0826547 
+: targets: -0.245252 
+Pass 95
+: inputs: 0.095 0.096 0.097 0.098 
+: outputs: -0.205939 
+: targets: 0.683262 
+Pass 96
+: inputs: 0.096 0.097 0.098 0.099 
+: outputs: -0.143087 
+: targets: 0.983588 
+Pass 97
+: inputs: 0.097 0.098 0.099 0.1 
+: outputs: 0.0540445 
+: targets: 0.379608 
+Pass 98
+: inputs: 0.098 0.099 0.1 0.101 
+: outputs: 0.199238 
+: targets: -0.573382 
+Pass 99
+: inputs: 0.099 0.1 0.101 0.102 
+: outputs: 0.162958 
+: targets: -0.999207 
+Pass 100
+: inputs: 0.1 0.101 0.102 0.103 
+: outputs: -0.0242371 
+: targets: -0.506366 
+Pass 101
+: inputs: 0.101 0.102 0.103 0.104 
+: outputs: -0.188652 
+: targets: 0.452026 
+Pass 102
+: inputs: 0.102 0.103 0.104 0.105 
+: outputs: -0.179525 
+: targets: 0.994827 
+Pass 103
+: inputs: 0.103 0.104 0.105 0.106 
+: outputs: -0.00607928 
+: targets: 0.622989 
+Pass 104
+: inputs: 0.104 0.105 0.106 0.107 
+: outputs: 0.174295 
+: targets: -0.321622 
+Pass 105
+: inputs: 0.105 0.106 0.107 0.108 
+: outputs: 0.192535 
+: targets: -0.970535 
+Pass 106
+: inputs: 0.106 0.107 0.108 0.109 
+: outputs: 0.0361852 
+: targets: -0.727143 
+Pass 107
+: inputs: 0.107 0.108 0.109 0.11 
+: outputs: -0.156367 
+: targets: 0.184782 
+Pass 108
+: inputs: 0.108 0.109 0.11 0.111 
+: outputs: -0.201808 
+: targets: 0.926819 
+Pass 109
+: inputs: 0.109 0.11 0.111 0.112 
+: outputs: -0.0653997 
+: targets: 0.816743 
+Pass 110
+: inputs: 0.11 0.111 0.112 0.113 
+: outputs: 0.135138 
+: targets: -0.0442427 
+Pass 111
+: inputs: 0.111 0.112 0.113 0.114 
+: outputs: 0.207217 
+: targets: -0.864551 
+Pass 112
+: inputs: 0.112 0.113 0.114 0.115 
+: outputs: 0.0930857 
+: targets: -0.889996 
+Pass 113
+: inputs: 0.113 0.114 0.115 0.116 
+: outputs: -0.110982 
+: targets: -0.0971819 
+Pass 114
+: inputs: 0.114 0.115 0.116 0.117 
+: outputs: -0.208689 
+: targets: 0.78498 
+Pass 115
+: inputs: 0.115 0.116 0.117 0.118 
+: outputs: -0.118686 
+: targets: 0.945435 
+Pass 116
+: inputs: 0.116 0.117 0.118 0.119 
+: outputs: 0.0843684 
+: targets: 0.236661 
+Pass 117
+: inputs: 0.117 0.118 0.119 0.12 
+: outputs: 0.206191 
+: targets: -0.689698 
+Pass 118
+: inputs: 0.118 0.119 0.12 0.121 
+: outputs: 0.141719 
+: targets: -0.981952 
+Pass 119
+: inputs: 0.119 0.12 0.121 0.122 
+: outputs: -0.0558642 
+: targets: -0.371404 
+Pass 120
+: inputs: 0.12 0.121 0.122 0.123 
+: outputs: -0.199739 
+: targets: 0.580611 
+Pass 121
+: inputs: 0.121 0.122 0.123 0.124 
+: outputs: -0.161785 
+: targets: 0.998815 
+Pass 122
+: inputs: 0.122 0.123 0.124 0.125 
+: outputs: 0.026114 
+: targets: 0.498713 
+Pass 123
+: inputs: 0.123 0.124 0.125 0.126 
+: outputs: 0.189392 
+: targets: -0.459903 
+Pass 124
+: inputs: 0.124 0.125 0.126 0.127 
+: outputs: 0.178562 
+: targets: -0.995687 
+Pass 125
+: inputs: 0.125 0.126 0.127 0.128 
+: outputs: 0.00418443 
+: targets: -0.61604 
+Pass 126
+: inputs: 0.126 0.127 0.128 0.129 
+: outputs: -0.17527 
+: targets: 0.329991 
+Pass 127
+: inputs: 0.127 0.128 0.129 0.13 
+: outputs: -0.191799 
+: targets: 0.97263 
+Pass 128
+: inputs: 0.128 0.129 0.13 0.131 
+: outputs: -0.0343203 
+: targets: 0.721038 
+Pass 129
+: inputs: 0.129 0.13 0.131 0.132 
+: outputs: 0.157559 
+: targets: -0.193473 
+Pass 130
+: inputs: 0.13 0.131 0.132 0.133 
+: outputs: 0.201308 
+: targets: -0.930106 
+Pass 131
+: inputs: 0.131 0.132 0.133 0.134 
+: outputs: 0.0636038 
+: targets: -0.811603 
+Pass 132
+: inputs: 0.132 0.133 0.134 0.135 
+: outputs: -0.13653 
+: targets: 0.0530836 
+Pass 133
+: inputs: 0.133 0.134 0.135 0.136 
+: outputs: -0.206961 
+: targets: 0.868966 
+Pass 134
+: inputs: 0.134 0.135 0.136 0.137 
+: outputs: -0.0913985 
+: targets: 0.885925 
+Pass 135
+: inputs: 0.135 0.136 0.137 0.138 
+: outputs: 0.112548 
+: targets: 0.0883687 
+Pass 136
+: inputs: 0.136 0.137 0.138 0.139 
+: outputs: 0.208679 
+: targets: -0.790433 
+Pass 137
+: inputs: 0.137 0.138 0.139 0.14 
+: outputs: 0.117139 
+: targets: -0.942514 
+Pass 138
+: inputs: 0.138 0.139 0.14 0.141 
+: outputs: -0.0860774 
+: targets: -0.228052 
+Pass 139
+: inputs: 0.139 0.14 0.141 0.142 
+: outputs: -0.20643 
+: targets: 0.69608 
+Pass 140
+: inputs: 0.14 0.141 0.142 0.143 
+: outputs: -0.140342 
+: targets: 0.98024 
+Pass 141
+: inputs: 0.141 0.142 0.143 0.144 
+: outputs: 0.0576774 
+: targets: 0.363171 
+Pass 142
+: inputs: 0.142 0.143 0.144 0.145 
+: outputs: 0.200225 
+: targets: -0.587795 
+Pass 143
+: inputs: 0.143 0.144 0.145 0.146 
+: outputs: 0.160601 
+: targets: -0.998345 
+Pass 144
+: inputs: 0.144 0.145 0.146 0.147 
+: outputs: -0.0279901 
+: targets: -0.491022 
+Pass 145
+: inputs: 0.145 0.146 0.147 0.148 
+: outputs: -0.19012 
+: targets: 0.467745 
+Pass 146
+: inputs: 0.146 0.147 0.148 0.149 
+: outputs: -0.177589 
+: targets: 0.996469 
+Pass 147
+: inputs: 0.147 0.148 0.149 0.15 
+: outputs: -0.00229033 
+: targets: 0.609044 
+Pass 148
+: inputs: 0.148 0.149 0.15 0.151 
+: outputs: 0.176231 
+: targets: -0.338333 
+Pass 149
+: inputs: 0.149 0.15 0.151 0.152 
+: outputs: 0.191051 
+: targets: -0.974649 
+Pass 150
+: inputs: 0.15 0.151 0.152 0.153 
+: outputs: 0.0324521 
+: targets: -0.714876 
+Pass 151
+: inputs: 0.151 0.152 0.153 0.154 
+: outputs: -0.158741 
+: targets: 0.20215 
+Pass 152
+: inputs: 0.152 0.153 0.154 0.155 
+: outputs: -0.200796 
+: targets: 0.933321 
+Pass 153
+: inputs: 0.153 0.154 0.155 0.156 
+: outputs: -0.0618037 
+: targets: 0.806401 
+Pass 154
+: inputs: 0.154 0.155 0.156 0.157 
+: outputs: 0.137913 
+: targets: -0.0619203 
+Pass 155
+: inputs: 0.155 0.156 0.157 0.158 
+: outputs: 0.206692 
+: targets: -0.873312 
+Pass 156
+: inputs: 0.156 0.157 0.158 0.159 
+: outputs: 0.0897045 
+: targets: -0.881785 
+Pass 157
+: inputs: 0.157 0.158 0.159 0.16 
+: outputs: -0.114107 
+: targets: -0.0795485 
+Pass 158
+: inputs: 0.158 0.159 0.16 0.161 
+: outputs: -0.208657 
+: targets: 0.795824 
+Pass 159
+: inputs: 0.159 0.16 0.161 0.162 
+: outputs: -0.115585 
+: targets: 0.93952 
+Pass 160
+: inputs: 0.16 0.161 0.162 0.163 
+: outputs: 0.0877796 
+: targets: 0.219425 
+Pass 161
+: inputs: 0.161 0.162 0.163 0.164 
+: outputs: 0.206657 
+: targets: -0.702408 
+Pass 162
+: inputs: 0.162 0.163 0.164 0.165 
+: outputs: 0.138955 
+: targets: -0.97845 
+Pass 163
+: inputs: 0.163 0.164 0.165 0.166 
+: outputs: -0.0594864 
+: targets: -0.35491 
+Pass 164
+: inputs: 0.164 0.165 0.166 0.167 
+: outputs: -0.200698 
+: targets: 0.594933 
+Pass 165
+: inputs: 0.165 0.166 0.167 0.168 
+: outputs: -0.159406 
+: targets: 0.997797 
+Pass 166
+: inputs: 0.166 0.167 0.168 0.169 
+: outputs: 0.0298638 
+: targets: 0.483292 
+Pass 167
+: inputs: 0.167 0.168 0.169 0.17 
+: outputs: 0.190836 
+: targets: -0.47555 
+Pass 168
+: inputs: 0.168 0.169 0.17 0.171 
+: outputs: 0.176604 
+: targets: -0.997173 
+Pass 169
+: inputs: 0.169 0.17 0.171 0.172 
+: outputs: 0.000395966 
+: targets: -0.602 
+Pass 170
+: inputs: 0.17 0.171 0.172 0.173 
+: outputs: -0.177181 
+: targets: 0.346649 
+Pass 171
+: inputs: 0.171 0.172 0.173 0.174 
+: outputs: -0.190291 
+: targets: 0.976591 
+Pass 172
+: inputs: 0.172 0.173 0.174 0.175 
+: outputs: -0.0305815 
+: targets: 0.708659 
+Pass 173
+: inputs: 0.173 0.174 0.175 0.176 
+: outputs: 0.159912 
+: targets: -0.210811 
+Pass 174
+: inputs: 0.174 0.175 0.176 0.177 
+: outputs: 0.200272 
+: targets: -0.936462 
+Pass 175
+: inputs: 0.175 0.176 0.177 0.178 
+: outputs: 0.0599991 
+: targets: -0.801135 
+Pass 176
+: inputs: 0.176 0.177 0.178 0.179 
+: outputs: -0.139286 
+: targets: 0.0707522 
+Pass 177
+: inputs: 0.177 0.178 0.179 0.18 
+: outputs: -0.20641 
+: targets: 0.87759 
+Pass 178
+: inputs: 0.178 0.179 0.18 0.181 
+: outputs: -0.0880043 
+: targets: 0.877575 
+Pass 179
+: inputs: 0.179 0.18 0.181 0.182 
+: outputs: 0.115657 
+: targets: 0.0707222 
+Pass 180
+: inputs: 0.18 0.181 0.182 0.183 
+: outputs: 0.208623 
+: targets: -0.801153 
+Pass 181
+: inputs: 0.181 0.182 0.183 0.184 
+: outputs: 0.114023 
+: targets: -0.936451 
+Pass 182
+: inputs: 0.182 0.183 0.184 0.185 
+: outputs: -0.0894755 
+: targets: -0.210781 
+Pass 183
+: inputs: 0.183 0.184 0.185 0.186 
+: outputs: -0.206871 
+: targets: 0.70868 
+Pass 184
+: inputs: 0.184 0.185 0.186 0.187 
+: outputs: -0.13756 
+: targets: 0.976584 
+Pass 185
+: inputs: 0.185 0.186 0.187 0.188 
+: outputs: 0.0612909 
+: targets: 0.346621 
+Pass 186
+: inputs: 0.186 0.187 0.188 0.189 
+: outputs: 0.20116 
+: targets: -0.602024 
+Pass 187
+: inputs: 0.187 0.188 0.189 0.19 
+: outputs: 0.158201 
+: targets: -0.997171 
+Pass 188
+: inputs: 0.188 0.189 0.19 0.191 
+: outputs: -0.0317355 
+: targets: -0.475524 
+Pass 189
+: inputs: 0.189 0.19 0.191 0.192 
+: outputs: -0.191541 
+: targets: 0.483318 
+Pass 190
+: inputs: 0.19 0.191 0.192 0.193 
+: outputs: -0.175609 
+: targets: 0.997799 
+Pass 191
+: inputs: 0.191 0.192 0.193 0.194 
+: outputs: 0.00149849 
+: targets: 0.594909 
+Pass 192
+: inputs: 0.192 0.193 0.194 0.195 
+: outputs: 0.17812 
+: targets: -0.354938 
+Pass 193
+: inputs: 0.193 0.194 0.195 0.196 
+: outputs: 0.18952 
+: targets: -0.978457 
+Pass 194
+: inputs: 0.194 0.195 0.196 0.197 
+: outputs: 0.0287086 
+: targets: -0.702386 
+Pass 195
+: inputs: 0.195 0.196 0.197 0.198 
+: outputs: -0.161072 
+: targets: 0.219455 
+Pass 196
+: inputs: 0.196 0.197 0.198 0.199 
+: outputs: -0.199736 
+: targets: 0.93953 
+Pass 197
+: inputs: 0.197 0.198 0.199 0.2 
+: outputs: -0.0581902 
+: targets: 0.795806 
+Pass 198
+: inputs: 0.198 0.199 0.2 0.201 
+: outputs: 0.140649 
+: targets: -0.0795786 
+Pass 199
+: inputs: 0.199 0.2 0.201 0.202 
+: outputs: 0.206117 
+: targets: -0.881799 
+Pass 200
+: inputs: 0.2 0.201 0.202 0.203 
+: outputs: 0.086298 
+: targets: -0.873297 
+Pass 201
+: inputs: 0.201 0.202 0.203 0.204 
+: outputs: -0.117199 
+: targets: -0.0618903 
+Pass 202
+: inputs: 0.202 0.203 0.204 0.205 
+: outputs: -0.208577 
+: targets: 0.806418 
+Pass 203
+: inputs: 0.203 0.204 0.205 0.206 
+: outputs: -0.112453 
+: targets: 0.93331 
+Pass 204
+: inputs: 0.204 0.205 0.206 0.207 
+: outputs: 0.0911649 
+: targets: 0.20212 
+Pass 205
+: inputs: 0.205 0.206 0.207 0.208 
+: outputs: 0.207074 
+: targets: -0.714898 
+Pass 206
+: inputs: 0.206 0.207 0.208 0.209 
+: outputs: 0.136156 
+: targets: -0.974642 
+Pass 207
+: inputs: 0.207 0.208 0.209 0.21 
+: outputs: -0.063091 
+: targets: -0.338305 
+Pass 208
+: inputs: 0.208 0.209 0.21 0.211 
+: outputs: -0.20161 
+: targets: 0.609068 
+Pass 209
+: inputs: 0.209 0.21 0.211 0.212 
+: outputs: -0.156986 
+: targets: 0.996467 
+Pass 210
+: inputs: 0.21 0.211 0.212 0.213 
+: outputs: 0.0336048 
+: targets: 0.467719 
+Pass 211
+: inputs: 0.211 0.212 0.213 0.214 
+: outputs: 0.192234 
+: targets: -0.491048 
+Pass 212
+: inputs: 0.212 0.213 0.214 0.215 
+: outputs: 0.174603 
+: targets: -0.998347 
+Pass 213
+: inputs: 0.213 0.214 0.215 0.216 
+: outputs: -0.00339295 
+: targets: -0.587771 
+Pass 214
+: inputs: 0.214 0.215 0.216 0.217 
+: outputs: -0.179048 
+: targets: 0.363199 
+Pass 215
+: inputs: 0.215 0.216 0.217 0.218 
+: outputs: -0.188738 
+: targets: 0.980246 
+Pass 216
+: inputs: 0.216 0.217 0.218 0.219 
+: outputs: -0.0268335 
+: targets: 0.696058 
+Pass 217
+: inputs: 0.217 0.218 0.219 0.22 
+: outputs: 0.162222 
+: targets: -0.228082 
+Pass 218
+: inputs: 0.218 0.219 0.22 0.221 
+: outputs: 0.199189 
+: targets: -0.942525 
+Pass 219
+: inputs: 0.219 0.22 0.221 0.222 
+: outputs: 0.056377 
+: targets: -0.790415 
+Pass 220
+: inputs: 0.22 0.221 0.222 0.223 
+: outputs: -0.142003 
+: targets: 0.0883987 
+Pass 221
+: inputs: 0.221 0.222 0.223 0.224 
+: outputs: -0.205812 
+: targets: 0.885939 
+Pass 222
+: inputs: 0.222 0.223 0.224 0.225 
+: outputs: -0.0845856 
+: targets: 0.868951 
+Pass 223
+: inputs: 0.223 0.224 0.225 0.226 
+: outputs: 0.118732 
+: targets: 0.0530535 
+Pass 224
+: inputs: 0.224 0.225 0.226 0.227 
+: outputs: 0.208519 
+: targets: -0.811621 
+Pass 225
+: inputs: 0.225 0.226 0.227 0.228 
+: outputs: 0.110876 
+: targets: -0.930095 
+Pass 226
+: inputs: 0.226 0.227 0.228 0.229 
+: outputs: -0.0928476 
+: targets: -0.193444 
+Pass 227
+: inputs: 0.227 0.228 0.229 0.23 
+: outputs: -0.207264 
+: targets: 0.721059 
+Pass 228
+: inputs: 0.228 0.229 0.23 0.231 
+: outputs: -0.134742 
+: targets: 0.972623 
+Pass 229
+: inputs: 0.229 0.23 0.231 0.232 
+: outputs: 0.0648865 
+: targets: 0.329962 
+Pass 230
+: inputs: 0.23 0.231 0.232 0.233 
+: outputs: 0.202048 
+: targets: -0.616064 
+Pass 231
+: inputs: 0.231 0.232 0.233 0.234 
+: outputs: 0.155761 
+: targets: -0.995684 
+Pass 232
+: inputs: 0.232 0.233 0.234 0.235 
+: outputs: -0.0354717 
+: targets: -0.459877 
+Pass 233
+: inputs: 0.233 0.234 0.235 0.236 
+: outputs: -0.192915 
+: targets: 0.498739 
+Pass 234
+: inputs: 0.234 0.235 0.236 0.237 
+: outputs: -0.173587 
+: targets: 0.998817 
+Pass 235
+: inputs: 0.235 0.236 0.237 0.238 
+: outputs: 0.00528729 
+: targets: 0.580587 
+Pass 236
+: inputs: 0.236 0.237 0.238 0.239 
+: outputs: 0.179964 
+: targets: -0.371432 
+Pass 237
+: inputs: 0.237 0.238 0.239 0.24 
+: outputs: 0.187945 
+: targets: -0.981958 
+Pass 238
+: inputs: 0.238 0.239 0.24 0.241 
+: outputs: 0.0249562 
+: targets: -0.689676 
+Pass 239
+: inputs: 0.239 0.24 0.241 0.242 
+: outputs: -0.163361 
+: targets: 0.236691 
+Pass 240
+: inputs: 0.24 0.241 0.242 0.243 
+: outputs: -0.198629 
+: targets: 0.945445 
+Pass 241
+: inputs: 0.241 0.242 0.243 0.244 
+: outputs: -0.0545594 
+: targets: 0.784962 
+Pass 242
+: inputs: 0.242 0.243 0.244 0.245 
+: outputs: 0.143347 
+: targets: -0.0972119 
+Pass 243
+: inputs: 0.243 0.244 0.245 0.246 
+: outputs: 0.205495 
+: targets: -0.890009 
+Pass 244
+: inputs: 0.244 0.245 0.246 0.247 
+: outputs: 0.082867 
+: targets: -0.864536 
+Pass 245
+: inputs: 0.245 0.246 0.247 0.248 
+: outputs: -0.120257 
+: targets: -0.0442126 
+Pass 246
+: inputs: 0.246 0.247 0.248 0.249 
+: outputs: -0.208448 
+: targets: 0.81676 
+Pass 247
+: inputs: 0.247 0.248 0.249 0.25 
+: outputs: -0.10929 
+: targets: 0.926807 
+Pass 248
+: inputs: 0.248 0.249 0.25 0.251 
+: outputs: 0.0945235 
+: targets: 0.184752 
+Pass 249
+: inputs: 0.249 0.25 0.251 0.252 
+: outputs: 0.207442 
+: targets: -0.727163 
+Pass 250
+: inputs: 0.25 0.251 0.252 0.253 
+: outputs: 0.13332 
+: targets: -0.970528 
+Pass 251
+: inputs: 0.251 0.252 0.253 0.254 
+: outputs: -0.066677 
+: targets: -0.321594 
+Pass 252
+: inputs: 0.252 0.253 0.254 0.255 
+: outputs: -0.202473 
+: targets: 0.623012 
+Pass 253
+: inputs: 0.253 0.254 0.255 0.256 
+: outputs: -0.154526 
+: targets: 0.994824 
+Pass 254
+: inputs: 0.254 0.255 0.256 0.257 
+: outputs: 0.037336 
+: targets: 0.451999 
+Pass 255
+: inputs: 0.255 0.256 0.257 0.258 
+: outputs: 0.193583 
+: targets: -0.506392 
+Pass 256
+: inputs: 0.256 0.257 0.258 0.259 
+: outputs: 0.172559 
+: targets: -0.999208 
+Pass 257
+: inputs: 0.257 0.258 0.259 0.26 
+: outputs: -0.0071814 
+: targets: -0.573357 
+Pass 258
+: inputs: 0.258 0.259 0.26 0.261 
+: outputs: -0.180868 
+: targets: 0.379636 
+Pass 259
+: inputs: 0.259 0.26 0.261 0.262 
+: outputs: -0.187139 
+: targets: 0.983593 
+Pass 260
+: inputs: 0.26 0.261 0.262 0.263 
+: outputs: -0.0230769 
+: targets: 0.68324 
+Pass 261
+: inputs: 0.261 0.262 0.263 0.264 
+: outputs: 0.164488 
+: targets: -0.245281 
+Pass 262
+: inputs: 0.262 0.263 0.264 0.265 
+: outputs: 0.198058 
+: targets: -0.948292 
+Pass 263
+: inputs: 0.263 0.264 0.265 0.266 
+: outputs: 0.0527376 
+: targets: -0.779447 
+Pass 264
+: inputs: 0.264 0.265 0.266 0.267 
+: outputs: -0.144681 
+: targets: 0.106017 
+Pass 265
+: inputs: 0.265 0.266 0.267 0.268 
+: outputs: -0.205165 
+: targets: 0.89401 
+Pass 266
+: inputs: 0.266 0.267 0.268 0.269 
+: outputs: -0.0811421 
+: targets: 0.860054 
+Pass 267
+: inputs: 0.267 0.268 0.269 0.27 
+: outputs: 0.121773 
+: targets: 0.0353682 
+Pass 268
+: inputs: 0.268 0.269 0.27 0.271 
+: outputs: 0.208364 
+: targets: -0.821835 
+Pass 269
+: inputs: 0.269 0.27 0.271 0.272 
+: outputs: 0.107697 
+: targets: -0.923447 
+Pass 270
+: inputs: 0.27 0.271 0.272 0.273 
+: outputs: -0.0961921 
+: targets: -0.176046 
+Pass 271
+: inputs: 0.271 0.272 0.273 0.274 
+: outputs: -0.207606 
+: targets: 0.733211 
+Pass 272
+: inputs: 0.272 0.273 0.274 0.275 
+: outputs: -0.131888 
+: targets: 0.968357 
+Pass 273
+: inputs: 0.273 0.274 0.275 0.276 
+: outputs: 0.0684625 
+: targets: 0.3132 
+Pass 274
+: inputs: 0.274 0.275 0.276 0.277 
+: outputs: 0.202885 
+: targets: -0.629911 
+Pass 275
+: inputs: 0.275 0.276 0.277 0.278 
+: outputs: 0.153281 
+: targets: -0.993885 
+Pass 276
+: inputs: 0.276 0.277 0.278 0.279 
+: outputs: -0.0391975 
+: targets: -0.444086 
+Pass 277
+: inputs: 0.277 0.278 0.279 0.28 
+: outputs: -0.194239 
+: targets: 0.514004 
+Pass 278
+: inputs: 0.278 0.279 0.28 0.281 
+: outputs: -0.171519 
+: targets: 0.999521 
+Pass 279
+: inputs: 0.279 0.28 0.281 0.282 
+: outputs: 0.00907512 
+: targets: 0.566083 
+Pass 280
+: inputs: 0.28 0.281 0.282 0.283 
+: outputs: 0.18176 
+: targets: -0.387809 
+Pass 281
+: inputs: 0.281 0.282 0.283 0.284 
+: outputs: 0.186321 
+: targets: -0.985151 
+Pass 282
+: inputs: 0.282 0.283 0.284 0.285 
+: outputs: 0.0211955 
+: targets: -0.67675 
+Pass 283
+: inputs: 0.283 0.284 0.285 0.286 
+: outputs: -0.165604 
+: targets: 0.253853 
+Pass 284
+: inputs: 0.284 0.285 0.286 0.287 
+: outputs: -0.197473 
+: targets: 0.951064 
+Pass 285
+: inputs: 0.285 0.286 0.287 0.288 
+: outputs: -0.0509116 
+: targets: 0.773872 
+Pass 286
+: inputs: 0.286 0.287 0.288 0.289 
+: outputs: 0.146004 
+: targets: -0.114815 
+Pass 287
+: inputs: 0.287 0.288 0.289 0.29 
+: outputs: 0.204822 
+: targets: -0.897941 
+Pass 288
+: inputs: 0.288 0.289 0.29 0.291 
+: outputs: 0.0794109 
+: targets: -0.855504 
+Pass 289
+: inputs: 0.289 0.29 0.291 0.292 
+: outputs: -0.12328 
+: targets: -0.026521 
+Pass 290
+: inputs: 0.29 0.291 0.292 0.293 
+: outputs: -0.208268 
+: targets: 0.826846 
+Pass 291
+: inputs: 0.291 0.292 0.293 0.294 
+: outputs: -0.106096 
+: targets: 0.920014 
+Pass 292
+: inputs: 0.292 0.293 0.294 0.295 
+: outputs: 0.0978534 
+: targets: 0.167326 
+Pass 293
+: inputs: 0.293 0.294 0.295 0.296 
+: outputs: 0.207758 
+: targets: -0.739201 
+Pass 294
+: inputs: 0.294 0.295 0.296 0.297 
+: outputs: 0.130447 
+: targets: -0.96611 
+Pass 295
+: inputs: 0.295 0.296 0.297 0.298 
+: outputs: -0.0702426 
+: targets: -0.304782 
+Pass 296
+: inputs: 0.296 0.297 0.298 0.299 
+: outputs: -0.203284 
+: targets: 0.636761 
+Pass 297
+: inputs: 0.297 0.298 0.299 0.3 
+: outputs: -0.152024 
+: targets: 0.992869 
+Pass 298
+: inputs: 0.298 0.299 0.3 0.301 
+: outputs: 0.041056 
+: targets: 0.436138 
+Pass 299
+: inputs: 0.299 0.3 0.301 0.302 
+: outputs: 0.194881 
+: targets: -0.521577 
+Pass 300
+: inputs: 0.3 0.301 0.302 0.303 
+: outputs: 0.170468 
+: targets: -0.999756 
+Pass 301
+: inputs: 0.301 0.302 0.303 0.304 
+: outputs: -0.0109683 
+: targets: -0.558764 
+Pass 302
+: inputs: 0.302 0.303 0.304 0.305 
+: outputs: -0.182639 
+: targets: 0.395953 
+Pass 303
+: inputs: 0.303 0.304 0.305 0.306 
+: outputs: -0.185491 
+: targets: 0.986633 
+Pass 304
+: inputs: 0.304 0.305 0.306 0.307 
+: outputs: -0.0193122 
+: targets: 0.670207 
+Pass 305
+: inputs: 0.305 0.306 0.307 0.308 
+: outputs: 0.166709 
+: targets: -0.262404 
+Pass 306
+: inputs: 0.306 0.307 0.308 0.309 
+: outputs: 0.196876 
+: targets: -0.953762 
+Pass 307
+: inputs: 0.307 0.308 0.309 0.31 
+: outputs: 0.0490813 
+: targets: -0.768235 
+Pass 308
+: inputs: 0.308 0.309 0.31 0.311 
+: outputs: -0.147316 
+: targets: 0.123603 
+Pass 309
+: inputs: 0.309 0.31 0.311 0.312 
+: outputs: -0.204466 
+: targets: 0.901801 
+Pass 310
+: inputs: 0.31 0.311 0.312 0.313 
+: outputs: -0.0776734 
+: targets: 0.850888 
+Pass 311
+: inputs: 0.311 0.312 0.313 0.314 
+: outputs: 0.124778 
+: targets: 0.0176718 
+Pass 312
+: inputs: 0.312 0.313 0.314 0.315 
+: outputs: 0.208157 
+: targets: -0.831791 
+Pass 313
+: inputs: 0.313 0.314 0.315 0.316 
+: outputs: 0.104487 
+: targets: -0.916509 
+Pass 314
+: inputs: 0.314 0.315 0.316 0.317 
+: outputs: -0.0995069 
+: targets: -0.158593 
+Pass 315
+: inputs: 0.315 0.316 0.317 0.318 
+: outputs: -0.207895 
+: targets: 0.745133 
+Pass 316
+: inputs: 0.316 0.317 0.318 0.319 
+: outputs: -0.128996 
+: targets: 0.963787 
+Pass 317
+: inputs: 0.317 0.318 0.319 0.32 
+: outputs: 0.0720171 
+: targets: 0.29634 
+Pass 318
+: inputs: 0.318 0.319 0.32 0.321 
+: outputs: 0.203669 
+: targets: -0.643561 
+Pass 319
+: inputs: 0.319 0.32 0.321 0.322 
+: outputs: 0.150757 
+: targets: -0.991775 
+Pass 320
+: inputs: 0.32 0.321 0.322 0.323 
+: outputs: -0.0429112 
+: targets: -0.428155 
+Pass 321
+: inputs: 0.321 0.322 0.323 0.324 
+: outputs: -0.195511 
+: targets: 0.529108 
+Pass 322
+: inputs: 0.322 0.323 0.324 0.325 
+: outputs: -0.169405 
+: targets: 0.999912 
+Pass 323
+: inputs: 0.323 0.324 0.325 0.326 
+: outputs: 0.0128608 
+: targets: 0.551402 
+Pass 324
+: inputs: 0.324 0.325 0.326 0.327 
+: outputs: 0.183506 
+: targets: -0.404065 
+Pass 325
+: inputs: 0.325 0.326 0.327 0.328 
+: outputs: 0.184649 
+: targets: -0.988036 
+Pass 326
+: inputs: 0.326 0.327 0.328 0.329 
+: outputs: 0.0174271 
+: targets: -0.663611 
+Pass 327
+: inputs: 0.327 0.328 0.329 0.33 
+: outputs: -0.167801 
+: targets: 0.270935 
+Pass 328
+: inputs: 0.328 0.329 0.33 0.331 
+: outputs: -0.196266 
+: targets: 0.956385 
+Pass 329
+: inputs: 0.329 0.33 0.331 0.332 
+: outputs: -0.0472468 
+: targets: 0.762539 
+Pass 330
+: inputs: 0.33 0.331 0.332 0.333 
+: outputs: 0.148617 
+: targets: -0.132382 
+Pass 331
+: inputs: 0.331 0.332 0.333 0.334 
+: outputs: 0.204096 
+: targets: -0.905591 
+Pass 332
+: inputs: 0.332 0.333 0.334 0.335 
+: outputs: 0.0759297 
+: targets: -0.846204 
+Pass 333
+: inputs: 0.333 0.334 0.335 0.336 
+: outputs: -0.126265 
+: targets: -0.00882117 
+Pass 334
+: inputs: 0.334 0.335 0.336 0.337 
+: outputs: -0.208033 
+: targets: 0.836672 
+Pass 335
+: inputs: 0.335 0.336 0.337 0.338 
+: outputs: -0.102869 
+: targets: 0.912933 
+Pass 336
+: inputs: 0.336 0.337 0.338 0.339 
+: outputs: 0.101153 
+: targets: 0.149847 
+Pass 337
+: inputs: 0.337 0.338 0.339 0.34 
+: outputs: 0.208019 
+: targets: -0.751007 
+Pass 338
+: inputs: 0.338 0.339 0.34 0.341 
+: outputs: 0.127535 
+: targets: -0.961389 
+Pass 339
+: inputs: 0.339 0.34 0.341 0.342 
+: outputs: -0.0737858 
+: targets: -0.287874 
+Pass 340
+: inputs: 0.34 0.341 0.342 0.343 
+: outputs: -0.20404 
+: targets: 0.650311 
+Pass 341
+: inputs: 0.341 0.342 0.343 0.344 
+: outputs: -0.149479 
+: targets: 0.990603 
+Pass 342
+: inputs: 0.342 0.343 0.344 0.345 
+: outputs: 0.0447631 
+: targets: 0.42014 
+Pass 343
+: inputs: 0.343 0.344 0.345 0.346 
+: outputs: 0.196126 
+: targets: -0.536598 
+Pass 344
+: inputs: 0.344 0.345 0.346 0.347 
+: outputs: 0.16833 
+: targets: -0.99999 
+Pass 345
+: inputs: 0.345 0.346 0.347 0.348 
+: outputs: -0.0147524 
+: targets: -0.543996 
+Pass 346
+: inputs: 0.346 0.347 0.348 0.349 
+: outputs: -0.184359 
+: targets: 0.412146 
+Pass 347
+: inputs: 0.347 0.348 0.349 0.35 
+: outputs: -0.183793 
+: targets: 0.989363 
+Pass 348
+: inputs: 0.348 0.349 0.35 0.351 
+: outputs: -0.0155403 
+: targets: 0.656964 
+Pass 349
+: inputs: 0.349 0.35 0.351 0.352 
+: outputs: 0.16888 
+: targets: -0.279444 
+Pass 350
+: inputs: 0.35 0.351 0.352 0.353 
+: outputs: 0.195642 
+: targets: -0.958933 
+Pass 351
+: inputs: 0.351 0.352 0.353 0.354 
+: outputs: 0.0454082 
+: targets: -0.756783 
+Pass 352
+: inputs: 0.352 0.353 0.354 0.355 
+: outputs: -0.149907 
+: targets: 0.14115 
+Pass 353
+: inputs: 0.353 0.354 0.355 0.356 
+: outputs: -0.203712 
+: targets: 0.90931 
+Pass 354
+: inputs: 0.354 0.355 0.356 0.357 
+: outputs: -0.0741796 
+: targets: 0.841455 
+Pass 355
+: inputs: 0.355 0.356 0.357 0.358 
+: outputs: 0.127743 
+: targets: -3.01444e-005 
+Pass 356
+: inputs: 0.356 0.357 0.358 0.359 
+: outputs: 0.207894 
+: targets: -0.841487 
+Pass 357
+: inputs: 0.357 0.358 0.359 0.36 
+: outputs: 0.101243 
+: targets: -0.909285 
+Pass 358
+: inputs: 0.358 0.359 0.36 0.361 
+: outputs: -0.10279 
+: targets: -0.14109 
+Pass 359
+: inputs: 0.359 0.36 0.361 0.362 
+: outputs: -0.208129 
+: targets: 0.756822 
+Pass 360
+: inputs: 0.36 0.361 0.362 0.363 
+: outputs: -0.126065 
+: targets: 0.958916 
+Pass 361
+: inputs: 0.361 0.362 0.363 0.364 
+: outputs: 0.0755484 
+: targets: 0.279387 
+Pass 362
+: inputs: 0.362 0.363 0.364 0.365 
+: outputs: 0.204397 
+: targets: -0.657009 
+Pass 363
+: inputs: 0.363 0.364 0.365 0.366 
+: outputs: 0.148189 
+: targets: -0.989354 
+Pass 364
+: inputs: 0.364 0.365 0.366 0.367 
+: outputs: -0.0466113 
+: targets: -0.412091 
+Pass 365
+: inputs: 0.365 0.366 0.367 0.368 
+: outputs: -0.196728 
+: targets: 0.544046 
+Pass 366
+: inputs: 0.366 0.367 0.368 0.369 
+: outputs: -0.167243 
+: targets: 0.99999 
+Pass 367
+: inputs: 0.367 0.368 0.369 0.37 
+: outputs: 0.0166429 
+: targets: 0.536547 
+Pass 368
+: inputs: 0.368 0.369 0.37 0.371 
+: outputs: 0.185199 
+: targets: -0.420194 
+Pass 369
+: inputs: 0.369 0.37 0.371 0.372 
+: outputs: 0.182924 
+: targets: -0.990611 
+Pass 370
+: inputs: 0.37 0.371 0.372 0.373 
+: outputs: 0.013652 
+: targets: -0.650265 
+Pass 371
+: inputs: 0.371 0.372 0.373 0.374 
+: outputs: -0.169947 
+: targets: 0.287932 
+Pass 372
+: inputs: 0.372 0.373 0.374 0.375 
+: outputs: -0.195004 
+: targets: 0.961406 
+Pass 373
+: inputs: 0.373 0.374 0.375 0.376 
+: outputs: -0.0435657 
+: targets: 0.750967 
+Pass 374
+: inputs: 0.374 0.375 0.376 0.377 
+: outputs: 0.151185 
+: targets: -0.149907 
+Pass 375
+: inputs: 0.375 0.376 0.377 0.378 
+: outputs: 0.203314 
+: targets: -0.912958 
+Pass 376
+: inputs: 0.376 0.377 0.378 0.379 
+: outputs: 0.0724232 
+: targets: -0.836639 
+Pass 377
+: inputs: 0.377 0.378 0.379 0.38 
+: outputs: -0.12921 
+: targets: 0.00888145 
+Pass 378
+: inputs: 0.378 0.379 0.38 0.381 
+: outputs: -0.207742 
+: targets: 0.846236 
+Pass 379
+: inputs: 0.379 0.38 0.381 0.382 
+: outputs: -0.0996095 
+: targets: 0.905566 
+Pass 380
+: inputs: 0.38 0.381 0.382 0.383 
+: outputs: 0.104419 
+: targets: 0.132322 
+Pass 381
+: inputs: 0.381 0.382 0.383 0.384 
+: outputs: 0.208224 
+: targets: -0.762578 
+Pass 382
+: inputs: 0.382 0.383 0.384 0.385 
+: outputs: 0.124584 
+: targets: -0.956367 
+Pass 383
+: inputs: 0.383 0.384 0.385 0.386 
+: outputs: -0.0773047 
+: targets: -0.270877 
+Pass 384
+: inputs: 0.384 0.385 0.386 0.387 
+: outputs: -0.20474 
+: targets: 0.663656 
+Pass 385
+: inputs: 0.385 0.386 0.387 0.388 
+: outputs: -0.146889 
+: targets: 0.988027 
+Pass 386
+: inputs: 0.386 0.387 0.388 0.389 
+: outputs: 0.0484556 
+: targets: 0.40401 
+Pass 387
+: inputs: 0.387 0.388 0.389 0.39 
+: outputs: 0.197316 
+: targets: -0.551452 
+Pass 388
+: inputs: 0.388 0.389 0.39 0.391 
+: outputs: 0.166143 
+: targets: -0.999911 
+Pass 389
+: inputs: 0.389 0.39 0.391 0.392 
+: outputs: -0.0185322 
+: targets: -0.529057 
+Pass 390
+: inputs: 0.39 0.391 0.392 0.393 
+: outputs: -0.186025 
+: targets: 0.42821 
+Pass 391
+: inputs: 0.391 0.392 0.393 0.394 
+: outputs: -0.182042 
+: targets: 0.991783 
+Pass 392
+: inputs: 0.392 0.393 0.394 0.395 
+: outputs: -0.0117622 
+: targets: 0.643515 
+Pass 393
+: inputs: 0.393 0.394 0.395 0.396 
+: outputs: 0.171001 
+: targets: -0.296397 
+Pass 394
+: inputs: 0.394 0.395 0.396 0.397 
+: outputs: 0.194352 
+: targets: -0.963803 
+Pass 395
+: inputs: 0.395 0.396 0.397 0.398 
+: outputs: 0.0417192 
+: targets: -0.745093 
+Pass 396
+: inputs: 0.396 0.397 0.398 0.399 
+: outputs: -0.152451 
+: targets: 0.158652 
+Pass 397
+: inputs: 0.397 0.398 0.399 0.4 
+: outputs: -0.202902 
+: targets: 0.916534 
+Pass 398
+: inputs: 0.398 0.399 0.4 0.401 
+: outputs: -0.0706607 
+: targets: 0.831758 
+Pass 399
+: inputs: 0.399 0.4 0.401 0.402 
+: outputs: 0.130667 
+: targets: -0.0177321 
+Pass 400
+: inputs: 0.4 0.401 0.402 0.403 
+: outputs: 0.207574 
+: targets: -0.850919 
+Pass 401
+: inputs: 0.401 0.402 0.403 0.404 
+: outputs: 0.0979673 
+: targets: -0.901775 
+Pass 402
+: inputs: 0.402 0.403 0.404 0.405 
+: outputs: -0.106039 
+: targets: -0.123543 
+Pass 403
+: inputs: 0.403 0.404 0.405 0.406 
+: outputs: -0.208304 
+: targets: 0.768274 
+Pass 404
+: inputs: 0.404 0.405 0.406 0.407 
+: outputs: -0.123094 
+: targets: 0.953744 
+Pass 405
+: inputs: 0.405 0.406 0.407 0.408 
+: outputs: 0.0790546 
+: targets: 0.262346 
+Pass 406
+: inputs: 0.406 0.407 0.408 0.409 
+: outputs: 0.205069 
+: targets: -0.670252 
+Pass 407
+: inputs: 0.407 0.408 0.409 0.41 
+: outputs: 0.145577 
+: targets: -0.986623 
+Pass 408
+: inputs: 0.408 0.409 0.41 0.411 
+: outputs: -0.050296 
+: targets: -0.395897 
+Pass 409
+: inputs: 0.409 0.41 0.411 0.412 
+: outputs: -0.197889 
+: targets: 0.558814 
+Pass 410
+: inputs: 0.41 0.411 0.412 0.413 
+: outputs: -0.165031 
+: targets: 0.999755 
+Pass 411
+: inputs: 0.411 0.412 0.413 0.414 
+: outputs: 0.0204201 
+: targets: 0.521525 
+Pass 412
+: inputs: 0.412 0.413 0.414 0.415 
+: outputs: 0.186837 
+: targets: -0.436192 
+Pass 413
+: inputs: 0.413 0.414 0.415 0.416 
+: outputs: 0.181147 
+: targets: -0.992876 
+Pass 414
+: inputs: 0.414 0.415 0.416 0.417 
+: outputs: 0.00987127 
+: targets: -0.636715 
+Pass 415
+: inputs: 0.415 0.416 0.417 0.418 
+: outputs: -0.172041 
+: targets: 0.304839 
+Pass 416
+: inputs: 0.416 0.417 0.418 0.419 
+: outputs: -0.193687 
+: targets: 0.966126 
+Pass 417
+: inputs: 0.417 0.418 0.419 0.42 
+: outputs: -0.0398689 
+: targets: 0.73916 
+Pass 418
+: inputs: 0.418 0.419 0.42 0.421 
+: outputs: 0.153704 
+: targets: -0.167385 
+Pass 419
+: inputs: 0.419 0.42 0.421 0.422 
+: outputs: 0.202475 
+: targets: -0.920038 
+Pass 420
+: inputs: 0.42 0.421 0.422 0.423 
+: outputs: 0.0688921 
+: targets: -0.826812 
+Pass 421
+: inputs: 0.421 0.422 0.423 0.424 
+: outputs: -0.132113 
+: targets: 0.0265813 
+Pass 422
+: inputs: 0.422 0.423 0.424 0.425 
+: outputs: -0.207393 
+: targets: 0.855536 
+Pass 423
+: inputs: 0.423 0.424 0.425 0.426 
+: outputs: -0.0963171 
+: targets: 0.897914 
+Pass 424
+: inputs: 0.424 0.425 0.426 0.427 
+: outputs: 0.10765 
+: targets: 0.114755 
+Pass 425
+: inputs: 0.425 0.426 0.427 0.428 
+: outputs: 0.20837 
+: targets: -0.77391 
+Pass 426
+: inputs: 0.426 0.427 0.428 0.429 
+: outputs: 0.121594 
+: targets: -0.951045 
+Pass 427
+: inputs: 0.427 0.428 0.429 0.43 
+: outputs: -0.0807977 
+: targets: -0.253794 
+Pass 428
+: inputs: 0.428 0.429 0.43 0.431 
+: outputs: -0.205382 
+: targets: 0.676794 
+Pass 429
+: inputs: 0.429 0.43 0.431 0.432 
+: outputs: -0.144254 
+: targets: 0.985141 
+Pass 430
+: inputs: 0.43 0.431 0.432 0.433 
+: outputs: 0.0521321 
+: targets: 0.387754 
+Pass 431
+: inputs: 0.431 0.432 0.433 0.434 
+: outputs: 0.198448 
+: targets: -0.566132 
+Pass 432
+: inputs: 0.432 0.433 0.434 0.435 
+: outputs: 0.163906 
+: targets: -0.999519 
+Pass 433
+: inputs: 0.433 0.434 0.435 0.436 
+: outputs: -0.0223065 
+: targets: -0.513953 
+Pass 434
+: inputs: 0.434 0.435 0.436 0.437 
+: outputs: -0.187635 
+: targets: 0.44414 
+Pass 435
+: inputs: 0.435 0.436 0.437 0.438 
+: outputs: -0.180239 
+: targets: 0.993892 
+Pass 436
+: inputs: 0.436 0.437 0.438 0.439 
+: outputs: -0.0079792 
+: targets: 0.629865 
+Pass 437
+: inputs: 0.437 0.438 0.439 0.44 
+: outputs: 0.173068 
+: targets: -0.313257 
+Pass 438
+: inputs: 0.438 0.439 0.44 0.441 
+: outputs: 0.193008 
+: targets: -0.968372 
+Pass 439
+: inputs: 0.439 0.44 0.441 0.442 
+: outputs: 0.038015 
+: targets: -0.73317 
+Pass 440
+: inputs: 0.44 0.441 0.442 0.443 
+: outputs: -0.154946 
+: targets: 0.176105 
+Pass 441
+: inputs: 0.441 0.442 0.443 0.444 
+: outputs: -0.202034 
+: targets: 0.92347 
+Pass 442
+: inputs: 0.442 0.443 0.444 0.445 
+: outputs: -0.0671175 
+: targets: 0.821801 
+Pass 443
+: inputs: 0.443 0.444 0.445 0.446 
+: outputs: 0.133549 
+: targets: -0.0354284 
+Pass 444
+: inputs: 0.444 0.445 0.446 0.447 
+: outputs: 0.207196 
+: targets: -0.860085 
+Pass 445
+: inputs: 0.445 0.446 0.447 0.448 
+: outputs: 0.0946587 
+: targets: -0.893983 
+Pass 446
+: inputs: 0.446 0.447 0.448 0.449 
+: outputs: -0.109253 
+: targets: -0.105958 
+Pass 447
+: inputs: 0.447 0.448 0.449 0.45 
+: outputs: -0.208421 
+: targets: 0.779485 
+Pass 448
+: inputs: 0.448 0.449 0.45 0.451 
+: outputs: -0.120084 
+: targets: 0.948273 
+Pass 449
+: inputs: 0.449 0.45 0.451 0.452 
+: outputs: 0.082534 
+: targets: 0.245223 
+Pass 450
+: inputs: 0.45 0.451 0.452 0.453 
+: outputs: 0.205681 
+: targets: -0.683284 
+Pass 451
+: inputs: 0.451 0.452 0.453 0.454 
+: outputs: 0.142919 
+: targets: -0.983582 
+Pass 452
+: inputs: 0.452 0.453 0.454 0.455 
+: outputs: -0.0539637 
+: targets: -0.37958 
+Pass 453
+: inputs: 0.453 0.454 0.455 0.456 
+: outputs: -0.198992 
+: targets: 0.573407 
+Pass 454
+: inputs: 0.454 0.455 0.456 0.457 
+: outputs: -0.162769 
+: targets: 0.999206 
+Pass 455
+: inputs: 0.455 0.456 0.457 0.458 
+: outputs: 0.024191 
+: targets: 0.50634 
+Pass 456
+: inputs: 0.456 0.457 0.458 0.459 
+: outputs: 0.188419 
+: targets: -0.452053 
+Pass 457
+: inputs: 0.457 0.458 0.459 0.46 
+: outputs: 0.179317 
+: targets: -0.99483 
+Pass 458
+: inputs: 0.458 0.459 0.46 0.461 
+: outputs: 0.0060862 
+: targets: -0.622965 
+Pass 459
+: inputs: 0.459 0.46 0.461 0.462 
+: outputs: -0.174082 
+: targets: 0.321651 
+Pass 460
+: inputs: 0.46 0.461 0.462 0.463 
+: outputs: -0.192314 
+: targets: 0.970543 
+Pass 461
+: inputs: 0.461 0.462 0.463 0.464 
+: outputs: -0.0361575 
+: targets: 0.727122 
+Pass 462
+: inputs: 0.462 0.463 0.464 0.465 
+: outputs: 0.156175 
+: targets: -0.184811 
+Pass 463
+: inputs: 0.463 0.464 0.465 0.466 
+: outputs: 0.201579 
+: targets: -0.92683 
+Pass 464
+: inputs: 0.464 0.465 0.466 0.467 
+: outputs: 0.0653369 
+: targets: -0.816725 
+Pass 465
+: inputs: 0.465 0.466 0.467 0.468 
+: outputs: -0.134973 
+: targets: 0.0442728 
+Pass 466
+: inputs: 0.466 0.467 0.468 0.469 
+: outputs: -0.206985 
+: targets: 0.864567 
+Pass 467
+: inputs: 0.467 0.468 0.469 0.47 
+: outputs: -0.0929923 
+: targets: 0.889982 
+Pass 468
+: inputs: 0.468 0.469 0.47 0.471 
+: outputs: 0.110846 
+: targets: 0.0971519 
+Pass 469
+: inputs: 0.469 0.47 0.471 0.472 
+: outputs: 0.208457 
+: targets: -0.784999 
+Pass 470
+: inputs: 0.47 0.471 0.472 0.473 
+: outputs: 0.118564 
+: targets: -0.945426 
+Pass 471
+: inputs: 0.471 0.472 0.473 0.474 
+: outputs: -0.0842632 
+: targets: -0.236632 
+Pass 472
+: inputs: 0.472 0.473 0.474 0.475 
+: outputs: -0.205965 
+: targets: 0.68972 
+Pass 473
+: inputs: 0.473 0.474 0.475 0.476 
+: outputs: -0.141573 
+: targets: 0.981946 
+Pass 474
+: inputs: 0.474 0.475 0.476 0.477 
+: outputs: 0.0557908 
+: targets: 0.371376 
+Pass 475
+: inputs: 0.475 0.476 0.477 0.478 
+: outputs: 0.199522 
+: targets: -0.580636 
+Pass 476
+: inputs: 0.476 0.477 0.478 0.479 
+: outputs: 0.16162 
+: targets: -0.998814 
+Pass 477
+: inputs: 0.477 0.478 0.479 0.48 
+: outputs: -0.0260737 
+: targets: -0.498687 
+Pass 478
+: inputs: 0.478 0.479 0.48 0.481 
+: outputs: -0.189188 
+: targets: 0.45993 
+Pass 479
+: inputs: 0.479 0.48 0.481 0.482 
+: outputs: -0.178381 
+: targets: 0.99569 
+Pass 480
+: inputs: 0.48 0.481 0.482 0.483 
+: outputs: -0.00419242 
+: targets: 0.616017 
+Pass 481
+: inputs: 0.481 0.482 0.483 0.484 
+: outputs: 0.175083 
+: targets: -0.330019 
+Pass 482
+: inputs: 0.482 0.483 0.484 0.485 
+: outputs: 0.191606 
+: targets: -0.972637 
+Pass 483
+: inputs: 0.483 0.484 0.485 0.486 
+: outputs: 0.0342966 
+: targets: -0.721017 
+Pass 484
+: inputs: 0.484 0.485 0.486 0.487 
+: outputs: -0.157392 
+: targets: 0.193503 
+Pass 485
+: inputs: 0.485 0.486 0.487 0.488 
+: outputs: -0.201108 
+: targets: 0.930117 
+Pass 486
+: inputs: 0.486 0.487 0.488 0.489 
+: outputs: -0.0635505 
+: targets: 0.811586 
+Pass 487
+: inputs: 0.487 0.488 0.489 0.49 
+: outputs: 0.136386 
+: targets: -0.0531137 
+Pass 488
+: inputs: 0.488 0.489 0.49 0.491 
+: outputs: 0.206758 
+: targets: -0.868981 
+Pass 489
+: inputs: 0.489 0.49 0.491 0.492 
+: outputs: 0.091318 
+: targets: -0.885911 
+Pass 490
+: inputs: 0.49 0.491 0.492 0.493 
+: outputs: -0.112429 
+: targets: -0.0883387 
+Pass 491
+: inputs: 0.491 0.492 0.493 0.494 
+: outputs: -0.208478 
+: targets: 0.790452 
+Pass 492
+: inputs: 0.492 0.493 0.494 0.495 
+: outputs: -0.117035 
+: targets: 0.942504 
+Pass 493
+: inputs: 0.493 0.494 0.495 0.496 
+: outputs: 0.0859851 
+: targets: 0.228023 
+Pass 494
+: inputs: 0.494 0.495 0.496 0.497 
+: outputs: 0.206234 
+: targets: -0.696102 
+Pass 495
+: inputs: 0.495 0.496 0.497 0.498 
+: outputs: 0.140216 
+: targets: -0.980234 
+Pass 496
+: inputs: 0.496 0.497 0.498 0.499 
+: outputs: -0.0576131 
+: targets: -0.363143 
+Pass 497
+: inputs: 0.497 0.498 0.499 0.5 
+: outputs: -0.200036 
+: targets: 0.587819 
+Pass 498
+: inputs: 0.498 0.499 0.5 0.501 
+: outputs: -0.160458 
+: targets: 0.998344 
+Pass 499
+: inputs: 0.499 0.5 0.501 0.502 
+: outputs: 0.0279542 
+: targets: 0.490995 
+Pass 500
+: inputs: 0.5 0.501 0.502 0.503 
+: outputs: 0.189944 
+: targets: -0.467772 
+Pass 501
+: inputs: 0.501 0.502 0.503 0.504 
+: outputs: 0.177433 
+: targets: -0.996472 
+Pass 502
+: inputs: 0.502 0.503 0.504 0.505 
+: outputs: 0.00229802 
+: targets: -0.60902 
+Pass 503
+: inputs: 0.503 0.504 0.505 0.506 
+: outputs: -0.176069 
+: targets: 0.338362 
+Pass 504
+: inputs: 0.504 0.505 0.506 0.507 
+: outputs: -0.190885 
+: targets: 0.974655 
+Pass 505
+: inputs: 0.505 0.506 0.507 0.508 
+: outputs: -0.0324325 
+: targets: 0.714855 
+Pass 506
+: inputs: 0.506 0.507 0.508 0.509 
+: outputs: 0.158596 
+: targets: -0.202179 
+Pass 507
+: inputs: 0.507 0.508 0.509 0.51 
+: outputs: 0.200623 
+: targets: -0.933331 
+Pass 508
+: inputs: 0.508 0.509 0.51 0.511 
+: outputs: 0.0617585 
+: targets: -0.806383 
+Pass 509
+: inputs: 0.509 0.51 0.511 0.512 
+: outputs: -0.137788 
+: targets: 0.0619504 
+Pass 510
+: inputs: 0.51 0.511 0.512 0.513 
+: outputs: -0.206517 
+: targets: 0.873327 
+Pass 511
+: inputs: 0.511 0.512 0.513 0.514 
+: outputs: -0.0896358 
+: targets: 0.88177 
+Pass 512
+: inputs: 0.512 0.513 0.514 0.515 
+: outputs: 0.114004 
+: targets: 0.0795185 
+Pass 513
+: inputs: 0.513 0.514 0.515 0.516 
+: outputs: 0.208484 
+: targets: -0.795842 
+Pass 514
+: inputs: 0.514 0.515 0.516 0.517 
+: outputs: 0.115495 
+: targets: -0.939509 
+Pass 515
+: inputs: 0.515 0.516 0.517 0.518 
+: outputs: -0.0876996 
+: targets: -0.219396 
+Pass 516
+: inputs: 0.516 0.517 0.518 0.519 
+: outputs: -0.206488 
+: targets: 0.702429 
+Pass 517
+: inputs: 0.517 0.518 0.519 0.52 
+: outputs: -0.138848 
+: targets: 0.978444 
+Pass 518
+: inputs: 0.518 0.519 0.52 0.521 
+: outputs: 0.0594305 
+: targets: 0.354882 
+Pass 519
+: inputs: 0.519 0.52 0.521 0.522 
+: outputs: 0.200536 
+: targets: -0.594957 
+Pass 520
+: inputs: 0.52 0.521 0.522 0.523 
+: outputs: 0.159283 
+: targets: -0.997795 
+Pass 521
+: inputs: 0.521 0.522 0.523 0.524 
+: outputs: -0.0298324 
+: targets: -0.483265 
+Pass 522
+: inputs: 0.522 0.523 0.524 0.525 
+: outputs: -0.190684 
+: targets: 0.475577 
+Pass 523
+: inputs: 0.523 0.524 0.525 0.526 
+: outputs: -0.17647 
+: targets: 0.997176 
+Pass 524
+: inputs: 0.524 0.525 0.526 0.527 
+: outputs: -0.000403182 
+: targets: 0.601976 
+Pass 525
+: inputs: 0.525 0.526 0.527 0.528 
+: outputs: 0.177042 
+: targets: -0.346678 
+Pass 526
+: inputs: 0.526 0.527 0.528 0.529 
+: outputs: 0.190149 
+: targets: -0.976597 
+Pass 527
+: inputs: 0.527 0.528 0.529 0.53 
+: outputs: 0.0305653 
+: targets: -0.708638 
+Pass 528
+: inputs: 0.528 0.529 0.53 0.531 
+: outputs: -0.159787 
+: targets: 0.21084 
+Pass 529
+: inputs: 0.529 0.53 0.531 0.532 
+: outputs: -0.200124 
+: targets: 0.936473 
+Pass 530
+: inputs: 0.53 0.531 0.532 0.533 
+: outputs: -0.0599608 
+: targets: 0.801117 
+Pass 531
+: inputs: 0.531 0.532 0.533 0.534 
+: outputs: 0.139179 
+: targets: -0.0707823 
+Pass 532
+: inputs: 0.532 0.533 0.534 0.535 
+: outputs: 0.206261 
+: targets: -0.877604 
+Pass 533
+: inputs: 0.533 0.534 0.535 0.536 
+: outputs: 0.0879459 
+: targets: -0.877561 
+Pass 534
+: inputs: 0.534 0.535 0.536 0.537 
+: outputs: -0.115568 
+: targets: -0.0706921 
+Pass 535
+: inputs: 0.535 0.536 0.537 0.538 
+: outputs: -0.208474 
+: targets: 0.801171 
+Pass 536
+: inputs: 0.536 0.537 0.538 0.539 
+: outputs: -0.113946 
+: targets: 0.936441 
+Pass 537
+: inputs: 0.537 0.538 0.539 0.54 
+: outputs: 0.0894066 
+: targets: 0.210752 
+Pass 538
+: inputs: 0.538 0.539 0.54 0.541 
+: outputs: 0.206726 
+: targets: -0.708702 
+Pass 539
+: inputs: 0.539 0.54 0.541 0.542 
+: outputs: 0.137468 
+: targets: -0.976578 
+Pass 540
+: inputs: 0.54 0.541 0.542 0.543 
+: outputs: -0.0612427 
+: targets: -0.346593 
+Pass 541
+: inputs: 0.541 0.542 0.543 0.544 
+: outputs: -0.201021 
+: targets: 0.602048 
+Pass 542
+: inputs: 0.542 0.543 0.544 0.545 
+: outputs: -0.158096 
+: targets: 0.997169 
+Pass 543
+: inputs: 0.543 0.544 0.545 0.546 
+: outputs: 0.0317082 
+: targets: 0.475497 
+Pass 544
+: inputs: 0.544 0.545 0.546 0.547 
+: outputs: 0.191411 
+: targets: -0.483344 
+Pass 545
+: inputs: 0.545 0.546 0.547 0.548 
+: outputs: 0.175495 
+: targets: -0.997801 
+Pass 546
+: inputs: 0.546 0.547 0.548 0.549 
+: outputs: -0.00149193 
+: targets: -0.594884 
+Pass 547
+: inputs: 0.547 0.548 0.549 0.55 
+: outputs: -0.178001 
+: targets: 0.354967 
+Pass 548
+: inputs: 0.548 0.549 0.55 0.551 
+: outputs: -0.189398 
+: targets: 0.978463 
+Pass 549
+: inputs: 0.549 0.55 0.551 0.552 
+: outputs: -0.0286951 
+: targets: 0.702365 
+Pass 550
+: inputs: 0.55 0.551 0.552 0.553 
+: outputs: 0.160965 
+: targets: -0.219484 
+Pass 551
+: inputs: 0.551 0.552 0.553 0.554 
+: outputs: 0.19961 
+: targets: -0.93954 
+Pass 552
+: inputs: 0.552 0.553 0.554 0.555 
+: outputs: 0.0581578 
+: targets: -0.795788 
+Pass 553
+: inputs: 0.553 0.554 0.555 0.556 
+: outputs: -0.140557 
+: targets: 0.0796086 
+Pass 554
+: inputs: 0.554 0.555 0.556 0.557 
+: outputs: -0.205989 
+: targets: 0.881813 
+Pass 555
+: inputs: 0.555 0.556 0.557 0.558 
+: outputs: -0.0862483 
+: targets: 0.873283 
+Pass 556
+: inputs: 0.556 0.557 0.558 0.559 
+: outputs: 0.117123 
+: targets: 0.0618602 
+Pass 557
+: inputs: 0.557 0.558 0.559 0.56 
+: outputs: 0.20845 
+: targets: -0.806436 
+Pass 558
+: inputs: 0.558 0.559 0.56 0.561 
+: outputs: 0.112388 
+: targets: -0.933299 
+Pass 559
+: inputs: 0.559 0.56 0.561 0.562 
+: outputs: -0.0911058 
+: targets: -0.202091 
+Pass 560
+: inputs: 0.56 0.561 0.562 0.563 
+: outputs: -0.20695 
+: targets: 0.714919 
+Pass 561
+: inputs: 0.561 0.562 0.563 0.564 
+: outputs: -0.136077 
+: targets: 0.974635 
+Pass 562
+: inputs: 0.562 0.563 0.564 0.565 
+: outputs: 0.0630496 
+: targets: 0.338277 
+Pass 563
+: inputs: 0.563 0.564 0.565 0.566 
+: outputs: 0.201491 
+: targets: -0.609092 
+Pass 564
+: inputs: 0.564 0.565 0.566 0.567 
+: outputs: 0.156897 
+: targets: -0.996464 
+Pass 565
+: inputs: 0.565 0.566 0.567 0.568 
+: outputs: -0.0335813 
+: targets: -0.467692 
+Pass 566
+: inputs: 0.566 0.567 0.568 0.569 
+: outputs: -0.192122 
+: targets: 0.491074 
+Pass 567
+: inputs: 0.567 0.568 0.569 0.57 
+: outputs: -0.174505 
+: targets: 0.998349 
+Pass 568
+: inputs: 0.568 0.569 0.57 0.571 
+: outputs: 0.00338716 
+: targets: 0.587746 
+Pass 569
+: inputs: 0.569 0.57 0.571 0.572 
+: outputs: 0.178946 
+: targets: -0.363228 
+Pass 570
+: inputs: 0.57 0.571 0.572 0.573 
+: outputs: 0.188634 
+: targets: -0.980252 
+Pass 571
+: inputs: 0.571 0.572 0.573 0.574 
+: outputs: 0.0268222 
+: targets: -0.696037 
+Pass 572
+: inputs: 0.572 0.573 0.574 0.575 
+: outputs: -0.162131 
+: targets: 0.228111 
+Pass 573
+: inputs: 0.573 0.574 0.575 0.576 
+: outputs: -0.199081 
+: targets: 0.942535 
+Pass 574
+: inputs: 0.574 0.575 0.576 0.577 
+: outputs: -0.0563494 
+: targets: 0.790396 
+Pass 575
+: inputs: 0.575 0.576 0.577 0.578 
+: outputs: 0.141925 
+: targets: -0.0884287 
+Pass 576
+: inputs: 0.576 0.577 0.578 0.579 
+: outputs: 0.205703 
+: targets: -0.885953 
+Pass 577
+: inputs: 0.577 0.578 0.579 0.58 
+: outputs: 0.0845433 
+: targets: -0.868936 
+Pass 578
+: inputs: 0.578 0.579 0.58 0.581 
+: outputs: -0.118667 
+: targets: -0.0530234 
+Pass 579
+: inputs: 0.579 0.58 0.581 0.582 
+: outputs: -0.20841 
+: targets: 0.811639 
+Pass 580
+: inputs: 0.58 0.581 0.582 0.583 
+: outputs: -0.11082 
+: targets: 0.930084 
+Pass 581
+: inputs: 0.581 0.582 0.583 0.584 
+: outputs: 0.0927971 
+: targets: 0.193414 
+Pass 582
+: inputs: 0.582 0.583 0.584 0.585 
+: outputs: 0.207158 
+: targets: -0.721079 
+Pass 583
+: inputs: 0.583 0.584 0.585 0.586 
+: outputs: 0.134675 
+: targets: -0.972616 
+Pass 584
+: inputs: 0.584 0.585 0.586 0.587 
+: outputs: -0.064851 
+: targets: -0.329934 
+Pass 585
+: inputs: 0.585 0.586 0.587 0.588 
+: outputs: -0.201946 
+: targets: 0.616088 
+Pass 586
+: inputs: 0.586 0.587 0.588 0.589 
+: outputs: -0.155685 
+: targets: 0.995681 
+Pass 587
+: inputs: 0.587 0.588 0.589 0.59 
+: outputs: 0.0354516 
+: targets: 0.45985 
+Pass 588
+: inputs: 0.588 0.589 0.59 0.591 
+: outputs: 0.192819 
+: targets: -0.498765 
+Pass 589
+: inputs: 0.589 0.59 0.591 0.592 
+: outputs: 0.173503 
+: targets: -0.998818 
+Pass 590
+: inputs: 0.59 0.591 0.592 0.593 
+: outputs: -0.00528232 
+: targets: -0.580562 
+Pass 591
+: inputs: 0.591 0.592 0.593 0.594 
+: outputs: -0.179877 
+: targets: 0.37146 
+Pass 592
+: inputs: 0.592 0.593 0.594 0.595 
+: outputs: -0.187855 
+: targets: 0.981964 
+Pass 593
+: inputs: 0.593 0.594 0.595 0.596 
+: outputs: -0.0249466 
+: targets: 0.689654 
+Pass 594
+: inputs: 0.594 0.595 0.596 0.597 
+: outputs: 0.163283 
+: targets: -0.23672 
+Pass 595
+: inputs: 0.595 0.596 0.597 0.598 
+: outputs: 0.198537 
+: targets: -0.945455 
+Pass 596
+: inputs: 0.596 0.597 0.598 0.599 
+: outputs: 0.0545359 
+: targets: -0.784943 
+Pass 597
+: inputs: 0.597 0.598 0.599 0.6 
+: outputs: -0.14328 
+: targets: 0.0972419 
+Pass 598
+: inputs: 0.598 0.599 0.6 0.601 
+: outputs: -0.205401 
+: targets: 0.890023 
+Pass 599
+: inputs: 0.599 0.6 0.601 0.602 
+: outputs: -0.0828307 
+: targets: 0.864521 
+Pass 600
+: inputs: 0.6 0.601 0.602 0.603 
+: outputs: 0.120202 
+: targets: 0.0441824 
+Pass 601
+: inputs: 0.601 0.602 0.603 0.604 
+: outputs: 0.208355 
+: targets: -0.816777 
+Pass 602
+: inputs: 0.602 0.603 0.604 0.605 
+: outputs: 0.109243 
+: targets: -0.926796 
+Pass 603
+: inputs: 0.603 0.604 0.605 0.606 
+: outputs: -0.0944804 
+: targets: -0.184722 
+Pass 604
+: inputs: 0.604 0.605 0.606 0.607 
+: outputs: -0.207351 
+: targets: 0.727184 
+Pass 605
+: inputs: 0.605 0.606 0.607 0.608 
+: outputs: -0.133263 
+: targets: 0.970521 
+Pass 606
+: inputs: 0.606 0.607 0.608 0.609 
+: outputs: 0.0666468 
+: targets: 0.321565 
+Pass 607
+: inputs: 0.607 0.608 0.609 0.61 
+: outputs: 0.202386 
+: targets: -0.623036 
+Pass 608
+: inputs: 0.608 0.609 0.61 0.611 
+: outputs: 0.154461 
+: targets: -0.994821 
+Pass 609
+: inputs: 0.609 0.61 0.611 0.612 
+: outputs: -0.0373189 
+: targets: -0.451972 
+Pass 610
+: inputs: 0.61 0.611 0.612 0.613 
+: outputs: -0.193501 
+: targets: 0.506418 
+Pass 611
+: inputs: 0.611 0.612 0.613 0.614 
+: outputs: -0.172487 
+: targets: 0.999209 
+Pass 612
+: inputs: 0.612 0.613 0.614 0.615 
+: outputs: 0.00717724 
+: targets: 0.573332 
+Pass 613
+: inputs: 0.613 0.614 0.615 0.616 
+: outputs: 0.180794 
+: targets: -0.379664 
+Pass 614
+: inputs: 0.614 0.615 0.616 0.617 
+: outputs: 0.187063 
+: targets: -0.983599 
+Pass 615
+: inputs: 0.615 0.616 0.617 0.618 
+: outputs: 0.0230685 
+: targets: -0.683218 
+Pass 616
+: inputs: 0.616 0.617 0.618 0.619 
+: outputs: -0.164422 
+: targets: 0.24531 
+Pass 617
+: inputs: 0.617 0.618 0.619 0.62 
+: outputs: -0.197978 
+: targets: 0.948301 
+Pass 618
+: inputs: 0.618 0.619 0.62 0.621 
+: outputs: -0.0527174 
+: targets: 0.779428 
+Pass 619
+: inputs: 0.619 0.62 0.621 0.622 
+: outputs: 0.144623 
+: targets: -0.106047 
+Pass 620
+: inputs: 0.62 0.621 0.622 0.623 
+: outputs: 0.205084 
+: targets: -0.894024 
+Pass 621
+: inputs: 0.621 0.622 0.623 0.624 
+: outputs: 0.0811109 
+: targets: -0.860039 
+Pass 622
+: inputs: 0.622 0.623 0.624 0.625 
+: outputs: -0.121726 
+: targets: -0.0353381 
+Pass 623
+: inputs: 0.623 0.624 0.625 0.626 
+: outputs: -0.208284 
+: targets: 0.821852 
+Pass 624
+: inputs: 0.624 0.625 0.626 0.627 
+: outputs: -0.107656 
+: targets: 0.923435 
+Pass 625
+: inputs: 0.625 0.626 0.627 0.628 
+: outputs: 0.0961554 
+: targets: 0.176016 
+Pass 626
+: inputs: 0.626 0.627 0.628 0.629 
+: outputs: 0.207528 
+: targets: -0.733231 
+Pass 627
+: inputs: 0.627 0.628 0.629 0.63 
+: outputs: 0.131839 
+: targets: -0.968349 
+Pass 628
+: inputs: 0.628 0.629 0.63 0.631 
+: outputs: -0.0684368 
+: targets: -0.313172 
+Pass 629
+: inputs: 0.629 0.63 0.631 0.632 
+: outputs: -0.20281 
+: targets: 0.629935 
+Pass 630
+: inputs: 0.63 0.631 0.632 0.633 
+: outputs: -0.153224 
+: targets: 0.993882 
+Pass 631
+: inputs: 0.631 0.632 0.633 0.634 
+: outputs: 0.039183 
+: targets: 0.444059 
+Pass 632
+: inputs: 0.632 0.633 0.634 0.635 
+: outputs: 0.194169 
+: targets: -0.51403 
+Pass 633
+: inputs: 0.633 0.634 0.635 0.636 
+: outputs: 0.171457 
+: targets: -0.999522 
+Pass 634
+: inputs: 0.634 0.635 0.636 0.637 
+: outputs: -0.00907176 
+: targets: -0.566058 
+Pass 635
+: inputs: 0.635 0.636 0.637 0.638 
+: outputs: -0.181696 
+: targets: 0.387837 
+Pass 636
+: inputs: 0.636 0.637 0.638 0.639 
+: outputs: -0.186256 
+: targets: 0.985157 
+Pass 637
+: inputs: 0.637 0.638 0.639 0.64 
+: outputs: -0.0211881 
+: targets: 0.676728 
+Pass 638
+: inputs: 0.638 0.639 0.64 0.641 
+: outputs: 0.165547 
+: targets: -0.253882 
+Pass 639
+: inputs: 0.639 0.64 0.641 0.642 
+: outputs: 0.197405 
+: targets: -0.951073 
+Pass 640
+: inputs: 0.64 0.641 0.642 0.643 
+: outputs: 0.050894 
+: targets: -0.773852 
+Pass 641
+: inputs: 0.641 0.642 0.643 0.644 
+: outputs: -0.145955 
+: targets: 0.114845 
+Pass 642
+: inputs: 0.642 0.643 0.644 0.645 
+: outputs: -0.204753 
+: targets: 0.897954 
+Pass 643
+: inputs: 0.643 0.644 0.645 0.646 
+: outputs: -0.079384 
+: targets: 0.855489 
+Pass 644
+: inputs: 0.644 0.645 0.646 0.647 
+: outputs: 0.12324 
+: targets: 0.0264909 
+Pass 645
+: inputs: 0.645 0.646 0.647 0.648 
+: outputs: 0.208199 
+: targets: -0.826863 
+Pass 646
+: inputs: 0.646 0.647 0.648 0.649 
+: outputs: 0.106061 
+: targets: -0.920002 
+Pass 647
+: inputs: 0.647 0.648 0.649 0.65 
+: outputs: -0.0978221 
+: targets: -0.167296 
+Pass 648
+: inputs: 0.648 0.649 0.65 0.651 
+: outputs: -0.207691 
+: targets: 0.739221 
+Pass 649
+: inputs: 0.649 0.65 0.651 0.652 
+: outputs: -0.130404 
+: targets: 0.966102 
+Pass 650
+: inputs: 0.65 0.651 0.652 0.653 
+: outputs: 0.0702208 
+: targets: 0.304753 
+Pass 651
+: inputs: 0.651 0.652 0.653 0.654 
+: outputs: 0.203219 
+: targets: -0.636784 
+Pass 652
+: inputs: 0.652 0.653 0.654 0.655 
+: outputs: 0.151976 
+: targets: -0.992865 
+Pass 653
+: inputs: 0.653 0.654 0.655 0.656 
+: outputs: -0.0410438 
+: targets: -0.436111 
+Pass 654
+: inputs: 0.654 0.655 0.656 0.657 
+: outputs: -0.194821 
+: targets: 0.521602 
+Pass 655
+: inputs: 0.655 0.656 0.657 0.658 
+: outputs: -0.170415 
+: targets: 0.999757 
+Pass 656
+: inputs: 0.656 0.657 0.658 0.659 
+: outputs: 0.0109657 
+: targets: 0.558739 
+Pass 657
+: inputs: 0.657 0.658 0.659 0.66 
+: outputs: 0.182585 
+: targets: -0.395981 
+Pass 658
+: inputs: 0.658 0.659 0.66 0.661 
+: outputs: 0.185435 
+: targets: -0.986637 
+Pass 659
+: inputs: 0.659 0.66 0.661 0.662 
+: outputs: 0.0193055 
+: targets: -0.670184 
+Pass 660
+: inputs: 0.66 0.661 0.662 0.663 
+: outputs: -0.16666 
+: targets: 0.262433 
+Pass 661
+: inputs: 0.661 0.662 0.663 0.664 
+: outputs: -0.196817 
+: targets: 0.953771 
+Pass 662
+: inputs: 0.662 0.663 0.664 0.665 
+: outputs: -0.0490658 
+: targets: 0.768216 
+Pass 663
+: inputs: 0.663 0.664 0.665 0.666 
+: outputs: 0.147274 
+: targets: -0.123633 
+Pass 664
+: inputs: 0.664 0.665 0.666 0.667 
+: outputs: 0.204406 
+: targets: -0.901814 
+Pass 665
+: inputs: 0.665 0.666 0.667 0.668 
+: outputs: 0.07765 
+: targets: -0.850872 
+Pass 666
+: inputs: 0.666 0.667 0.668 0.669 
+: outputs: -0.124743 
+: targets: -0.0176416 
+Pass 667
+: inputs: 0.667 0.668 0.669 0.67 
+: outputs: -0.208098 
+: targets: 0.831808 
+Pass 668
+: inputs: 0.668 0.669 0.67 0.671 
+: outputs: -0.104456 
+: targets: 0.916497 
+Pass 669
+: inputs: 0.669 0.67 0.671 0.672 
+: outputs: 0.0994803 
+: targets: 0.158563 
+Pass 670
+: inputs: 0.67 0.671 0.672 0.673 
+: outputs: 0.207838 
+: targets: -0.745153 
+Pass 671
+: inputs: 0.671 0.672 0.673 0.674 
+: outputs: 0.128959 
+: targets: -0.963779 
+Pass 672
+: inputs: 0.672 0.673 0.674 0.675 
+: outputs: -0.0719987 
+: targets: -0.296311 
+Pass 673
+: inputs: 0.673 0.674 0.675 0.676 
+: outputs: -0.203614 
+: targets: 0.643584 
+Pass 674
+: inputs: 0.674 0.675 0.676 0.677 
+: outputs: -0.150715 
+: targets: 0.991771 
+Pass 675
+: inputs: 0.675 0.676 0.677 0.678 
+: outputs: 0.0429011 
+: targets: 0.428128 
+Pass 676
+: inputs: 0.676 0.677 0.678 0.679 
+: outputs: 0.195459 
+: targets: -0.529134 
+Pass 677
+: inputs: 0.677 0.678 0.679 0.68 
+: outputs: 0.169359 
+: targets: -0.999913 
+Pass 678
+: inputs: 0.678 0.679 0.68 0.681 
+: outputs: -0.0128589 
+: targets: -0.551376 
+Pass 679
+: inputs: 0.679 0.68 0.681 0.682 
+: outputs: -0.183459 
+: targets: 0.404093 
+Pass 680
+: inputs: 0.68 0.681 0.682 0.683 
+: outputs: -0.184599 
+: targets: 0.988041 
+Pass 681
+: inputs: 0.681 0.682 0.683 0.684 
+: outputs: -0.017421 
+: targets: 0.663589 
+Pass 682
+: inputs: 0.682 0.683 0.684 0.685 
+: outputs: 0.167759 
+: targets: -0.270964 
+Pass 683
+: inputs: 0.683 0.684 0.685 0.686 
+: outputs: 0.196214 
+: targets: -0.956394 
+Pass 684
+: inputs: 0.684 0.685 0.686 0.687 
+: outputs: 0.0472331 
+: targets: -0.762519 
+Pass 685
+: inputs: 0.685 0.686 0.687 0.688 
+: outputs: -0.148581 
+: targets: 0.132412 
+Pass 686
+: inputs: 0.686 0.687 0.688 0.689 
+: outputs: -0.204044 
+: targets: 0.905604 
+Pass 687
+: inputs: 0.687 0.688 0.689 0.69 
+: outputs: -0.075909 
+: targets: 0.846188 
+Pass 688
+: inputs: 0.688 0.689 0.69 0.691 
+: outputs: 0.126236 
+: targets: 0.00879102 
+Pass 689
+: inputs: 0.689 0.69 0.691 0.692 
+: outputs: 0.207981 
+: targets: -0.836689 
+Pass 690
+: inputs: 0.69 0.691 0.692 0.693 
+: outputs: 0.102842 
+: targets: -0.912921 
+Pass 691
+: inputs: 0.691 0.692 0.693 0.694 
+: outputs: -0.10113 
+: targets: -0.149818 
+Pass 692
+: inputs: 0.692 0.693 0.694 0.695 
+: outputs: -0.207969 
+: targets: 0.751027 
+Pass 693
+: inputs: 0.693 0.694 0.695 0.696 
+: outputs: -0.127503 
+: targets: 0.961381 
+Pass 694
+: inputs: 0.694 0.695 0.696 0.697 
+: outputs: 0.0737702 
+: targets: 0.287846 
+Pass 695
+: inputs: 0.695 0.696 0.697 0.698 
+: outputs: 0.203992 
+: targets: -0.650334 
+Pass 696
+: inputs: 0.696 0.697 0.698 0.699 
+: outputs: 0.149442 
+: targets: -0.990599 
+Pass 697
+: inputs: 0.697 0.698 0.699 0.7 
+: outputs: -0.0447547 
+: targets: -0.420112 
+Pass 698
+: inputs: 0.698 0.699 0.7 0.701 
+: outputs: -0.196082 
+: targets: 0.536624 
+Pass 699
+: inputs: 0.699 0.7 0.701 0.702 
+: outputs: -0.16829 
+: targets: 0.99999 
+Pass 700
+: inputs: 0.7 0.701 0.702 0.703 
+: outputs: 0.0147511 
+: targets: 0.543971 
+Pass 701
